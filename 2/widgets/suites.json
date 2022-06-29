@@ -1,0 +1,1 @@
+{"total":2,"items":[{"uid":"09b49da87528325d1bd43491cfd3d247","name":"Авторизация пользователя","statistic":{"failed":0,"broken":0,"skipped":0,"passed":2,"unknown":0,"total":2}},{"uid":"fb3f131f5fe6f6dd97b0ecc896edc255","name":"Просмотр питомцев","statistic":{"failed":0,"broken":0,"skipped":0,"passed":1,"unknown":0,"total":1}}]}
